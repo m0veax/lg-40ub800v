@@ -30,6 +30,8 @@ Maybe this works?
 "Hi from LGTV at $(uname -n)" 2>/dev/null > /dev/tcp/192.168.178.123/8989"
 ```
 
+TIL it won't, thats a bash feature
+
 LG Opensource about a similar model with NetCast4.5
 
 https://opensource.lge.com/product/list?page=&keyword=netcast4.5&schType=
