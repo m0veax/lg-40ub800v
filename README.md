@@ -37,3 +37,9 @@ LG Opensource about a similar model with NetCast4.5
 https://opensource.lge.com/product/list?page=&keyword=netcast4.5&schType=
 
 (Click on the Notice Icon)
+
+Downloaded firmware from LG Page https://gscs-b2c.lge.com/downloadFile?fileId=TChspcUESxIee32k8JuGQ
+
+binwalk can't find anything, seems to be encrypted
+
+but hey, there is https://github.com/openlgtv/epk2extract - maybe this is worth a try :)
