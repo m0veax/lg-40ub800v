@@ -43,3 +43,8 @@ Downloaded firmware from LG Page https://gscs-b2c.lge.com/downloadFile?fileId=TC
 binwalk can't find anything, seems to be encrypted
 
 but hey, there is https://github.com/openlgtv/epk2extract - maybe this is worth a try :)
+
+Another idea is to switch names to the pelinux....tar, there are different versions of the chariot endpoint software.
+
+![image](https://github.com/user-attachments/assets/4e9e7d7b-91e5-4670-807c-7ef0cff9f136)
+
