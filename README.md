@@ -48,3 +48,7 @@ Another idea is to switch names to the pelinux....tar, there are different versi
 
 ![image](https://github.com/user-attachments/assets/4e9e7d7b-91e5-4670-807c-7ef0cff9f136)
 
+Links:
+
+Service Manual https://de.scribd.com/embeds/444268444/content
+
