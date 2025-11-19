@@ -52,3 +52,4 @@ Links:
 
 Service Manual https://de.scribd.com/embeds/444268444/content
 
+Service Manual PDF Download https://www.electronica-pt.com/esquema/tv/lg-esquemas-tv/lg-40ub800v-za-chassis-ld48v-34983/
