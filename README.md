@@ -57,3 +57,5 @@ Service Manual PDF Download https://www.electronica-pt.com/esquema/tv/lg-esquema
 try:
 
 [ ] https://www.invicti.com/blog/web-security/hacking-smart-tv-command-injection
+[ ] `reboot` for chariot endpoint, to validate they work
+
